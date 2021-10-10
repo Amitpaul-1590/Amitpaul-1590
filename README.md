@@ -1,6 +1,6 @@
-<img align="center" src="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435…a&oh=430eaef6032225bc41260c07f44e6866&oe=61887D0D"/>
 
-### Hi there 👋, I am Amit Paul
+
+### Hi there 👋, I am Amit
 #### Student/Web Developer
 
 I am a Student of CSE.And now i am a webdeveloper also. I’m currently learning coding & new techonologies.I’m looking to collaborate on all types of business startup. Specially techonology related.I have a passion for learning and sharing my knowledge with others as publicly as possible.I loved to solve real-world problems.I am strategic goal-oriented,and always work with an end goal in mind.I love to learn about technologycal subject.
