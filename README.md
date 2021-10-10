@@ -1,4 +1,4 @@
-<img align="center" src="https://avatars.githubusercontent.com/u/74178461?v=4"/>
+
 
 ### Hi there 👋, I am Amit Paul
 #### Student/Web Developer
