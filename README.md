@@ -1,4 +1,4 @@
-
+<img align="center" src="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435…a&oh=430eaef6032225bc41260c07f44e6866&oe=61887D0D"/>
 
 ### Hi there 👋, I am Amit Paul
 #### Student/Web Developer
