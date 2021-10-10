@@ -32,3 +32,4 @@ Skills: HTML / CSS/BOOTSTRAP/C/C++/JAVA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amitpaul-1590)  
 
 ![Profile views](https://gpvc.arturio.dev/Amitpaul-1590)  
+
