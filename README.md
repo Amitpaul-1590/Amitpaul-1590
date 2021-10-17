@@ -1,5 +1,4 @@
-          https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkhxhsrRe-50mMKwxgKqTjXCm7BMv9xWfqYdAn7zky6Q4TP4dVCFpFtzopMXbHb_NoCM&usqp=CAU                              
-
+                              
 ### Hi there 👋, I am Amit
 #### Student/Web Developer
 
