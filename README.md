@@ -4,7 +4,7 @@
 
 I am a Student of CSE.And now i am a webdeveloper also. I’m currently learning coding & new techonologies.I’m looking to collaborate on all types of business startup. Specially techonology related.I have a passion for learning and sharing my knowledge with others as publicly as possible.I loved to solve real-world problems.I am strategic goal-oriented,and always work with an end goal in mind.I love to learn about technologycal subject.
 
-Skills: HTML / CSS/BOOTSTRAP/C/C++/JAVA/Python/php
+Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/REACTJS/NODEJS/EXPRESSJS/C/C++/JAVA/Python
 
 - 🔭 I’m currently working on Few Skills like problem solving, web development & projects etc. 
 - 🌱 I’m currently learning JAVA 
