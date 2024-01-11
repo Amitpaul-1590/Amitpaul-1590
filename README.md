@@ -2,7 +2,7 @@
 ### Hi there 👋, I am Amit
 #### Student/Web Developer
 
-I am a Student of CSE and now i am an application veloper also. I’m currently learning coding & new techonologies.I’m looking to collaborate on all types of business startup. Specially techonology related.I have a passion for learning and sharing my knowledge with others as publicly as possible.I loved to solve real-world problems.I am strategic goal-oriented,and always work with an end goal in mind.I love to learn about technologycal subject.
+I am a Student of CSE and now i am an web application developer also. I’m currently learning coding & new techonologies.I’m looking to collaborate on all types of business startup. Specially techonology related.I have a passion for learning and sharing my knowledge with others as publicly as possible.I loved to solve real-world problems.I am strategic goal-oriented,and always work with an end goal in mind.I love to learn about technologycal subject.
 
 Skills: HTML/CSS/BOOTSTRAP/TAILWIND/JAVASCRIPT/REACTJS/NODEJS/EXPRESSJS/C/C++/JAVA/Python/php
 
